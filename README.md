@@ -19,7 +19,7 @@ Ce projet, effectué dans le cadre du cours de machine learning à l'ENSAE de Da
 
 ---
 
-## 🚀 Pour une démarrage rapide du projet
+##  Pour une démarrage rapide du projet
 
 ### 1. Cloner le dépôt
 
@@ -53,7 +53,7 @@ pip install -r requirements.txt
 ```
 
 
-> 📝 Met à jour ce fichier à tout moment avec :
+>  Met à jour ce fichier à tout moment avec :
 
 ```bash
 pip freeze > requirements.txt
@@ -61,9 +61,8 @@ pip freeze > requirements.txt
 
 ---
 
-## 🧠 Objectifs du projet
+##  Objectifs du projet
 
-* Charger et explorer les données
 * Nettoyage et traitement des données
 * Feature engineering
 * Entraînement de modèles de classification
@@ -72,13 +71,13 @@ pip freeze > requirements.txt
 
 ---
 
-## 📊 Données
+##  Données
 
 Les fichiers de données ne sont **pas suivis dans GitHub**. Ils doivent être placés dans le dossier `data/`.
 
 ---
 
-## 👥 Auteurs
+##  Auteurs
 
 Projet réalisé par les élèves ingénieurs statisticiens :
 
@@ -89,7 +88,7 @@ Projet réalisé par les élèves ingénieurs statisticiens :
 
 ---
 
-## 📌 Remarques
+##  Remarques
 
 * Ce projet utilise **Python 3.9+**
 Pour exécuter le fichier features_engineering.ipynb, créez un environnement virtuel (python -m venv venv_features), activez-le, puis installez les dépendances avec pip install -r requirements.txt. Après exécution du script, générez un fichier requirements_features.txt via pip freeze pour conserver la configuration des packages utilisés.
